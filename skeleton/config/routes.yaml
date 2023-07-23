@@ -10,3 +10,7 @@ kernel:
 Home:
     path: /
     controller: App\Controller\HomeController::index
+
+HomeAdmin:
+    path: /Admin
+    controller: App\Controller\Admin\AdminHomeController::index
