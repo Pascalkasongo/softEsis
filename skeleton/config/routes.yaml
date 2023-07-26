@@ -14,3 +14,8 @@ Home:
 HomeAdmin:
     path: /Admin
     controller: App\Controller\Admin\AdminHomeController::index
+
+AddProf:
+    path: /Admin/addProfesseur
+    conroller: App\Controller\Admin\ProfesseurController::new
+ 
