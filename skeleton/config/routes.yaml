@@ -17,5 +17,5 @@ HomeAdmin:
 
 AddProf:
     path: /Admin/addProfesseur
-    conroller: App\Controller\Admin\ProfesseurController::new
+    controller: App\Controller\Admin\ProfesseurController::new
  
