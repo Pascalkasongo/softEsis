@@ -1,0 +1,48 @@
+OBJECTIF SPECIFIQUE
+===================
+-Definir un probleme de gestion de stock et de les representer grafiquement ;
+-Determiner les rafales economique a commander et periodes des gestion dans les modeles deterministes;
+-Determiner le stock optimal a reapprovisionner dans le modeles aleatoires de getion;
+-D'appliquer les methodes classiques et particulieres de reapprovisionnement permettant de determiner les qualites
+a commander et les dates de passationde commande.
+
+Presentation 
+============
+la gestion des stocks est un de premiers themes traites par la recherche operationnelle etant donne que le controle
+des stocks est un probleme crucial pour le bon fonctionnement d'une entreprise. 
+Au depart les models de gestion des stocks ne consideraient que les 
+
+
+INTRODUCTION
+CONTEXTE
+VARIABLE D'ACTION
+TERMINOLOGIES
+
+
+
+
+II LES MODELES DETERMINISTES
+============================
+	lE 
+
+
+
+
+chap I INTRODUCTION
+===================
+
+CONTEXTE
+========
+
+La valeur des stocks dans l'actif du bilan financier d'une entreprise,represente  une  part relativement importante.La 
+gention de stock
+
+objectif de trouver le juste niveau des stocks a la fois pas trop important pour eviter des couts inutiles dus a une immobilisation des capitaux 
+a la fois pas trop faible pour eviter des penuries et une qualite de service insatisfaisante.
+
+
+
+les parametres qui sont souvent pris en consideration sont:
+
+	== la demande elle peut etre deterministe constante ou variable dans le temps ou aleatoire.
+	== Le delai de reapprovisionnement ou de livraison(lead time );cest le temps qui 
